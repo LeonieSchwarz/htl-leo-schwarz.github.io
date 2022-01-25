@@ -29,3 +29,9 @@ h1,h2,p,a{
 #middle{
     text-align: center;
 }
+
+.box{
+    width: 10%;
+    background-color: #5f656e;
+    display: flex;
+}
