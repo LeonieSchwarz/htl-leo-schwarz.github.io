@@ -33,5 +33,9 @@ h1,h2,p,a{
 .box{
     width: 10%;
     background-color: #5f656e;
-    display: flex;
+    text-align: center;
+    margin-left: 42%;
+    padding: 2%;
+    margin-top: 5%;
+    
 }
